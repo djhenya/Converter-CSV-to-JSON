@@ -1,0 +1,50 @@
+{
+    "commands": [
+        {
+            "param": [
+                {
+                    "user": "user1"
+                }, 
+                {
+                    "user": "user2"
+                }
+            ], 
+            "function": "foo1", 
+            "name": "test1", 
+            "module": "module1"
+        }, 
+        {
+            "param": [
+                {
+                    "user": "user1"
+                }, 
+                {
+                    "user": "user2"
+                }
+            ], 
+            "function": "foo2", 
+            "name": "test2", 
+            "module": "module1"
+        }, 
+        {
+            "param": [
+                {
+                    "user": "user1"
+                }
+            ], 
+            "function": "foo3", 
+            "name": "test3", 
+            "module": "module2"
+        }, 
+        {
+            "param": [
+                {
+                    "user": "user3"
+                }
+            ], 
+            "function": "foo3", 
+            "name": "test2", 
+            "module": "module1"
+        }
+    ]
+}
